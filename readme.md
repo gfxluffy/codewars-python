@@ -1,18 +1,22 @@
-# Codewars
+# Codewars (Python)
 
-3 kyu Kata:
+Solutions (highest to lowest ranked kata)
+
+3 Kyu Kata:
 - Last digit of a huge number
 - Battleship field validator
 - The Millionth Fibonacci Kata
 
-4 kyu Kata:
+
+4 Kyu Kata:
 - Range Extraction
 - Sum of Intervals
 - parseInt() reloaded
 - The observed PIN
 - Permutations
 
-5 kyu Kata:
+
+5 Kyu Kata:
 - RGB To Hex Conversion
 - Calculating with Functions
 - The Hashtag Generator
@@ -21,7 +25,8 @@
 - Human Readable Time
 - Weight for weight
 
-6 kyu Kata:
+
+6 Kyu Kata:
 - Create Phone Number
 - Stop gninnipS My sdroW!
 - Decode the Morse code
@@ -30,7 +35,8 @@
 - Highest Scoring Word
 - Write Number in Expanded Form
 
-7 kyu Kata:
+
+7 Kyu Kata:
 - Exes and Ohs
 - Credit Card Mask
 - Ones and Zeros
@@ -40,6 +46,7 @@
 - Regex validate PIN code
 - Mumbling
 
-8 kyu Kata:
+
+8 Kyu Kata:
 - Multiply
 
