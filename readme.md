@@ -1,4 +1,4 @@
-# Codewars (Python)
+# Codewars (Python) :crossed_swords:
 
 Solutions (highest to lowest ranked kata)
 
